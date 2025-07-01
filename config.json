@@ -1,6 +1,6 @@
 {
   "public": {
- "default": {
+     "default": {
       "commerce-core-endpoint": "https://www.stage.m2commerce.itg.cloud/graphql",
       "commerce-endpoint": "https://www.stage.m2commerce.itg.cloud/cs-graphql",
       "headers": {
